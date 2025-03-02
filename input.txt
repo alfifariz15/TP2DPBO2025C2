@@ -1,0 +1,48 @@
+Test Case untuk Java (Main.java)
+1
+2
+6
+Jaket Kucing
+120000
+10
+Pakaian
+Denim
+Biru
+Kucing
+L
+FurStyle
+
+1
+3
+
+Test Case untuk Python (Main.py)
+1
+6
+Jaket Kucing
+120000
+10
+Pakaian
+Denim
+Biru
+Kucing
+L
+FurStyle
+
+1
+3
+
+Test Case untuk C++ (Main.cpp)
+1
+6
+Jaket Kucing
+120000
+10
+Pakaian
+Denim
+Biru
+Kucing
+L
+FurStyle
+
+1
+3
